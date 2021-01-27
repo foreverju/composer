@@ -1,5 +1,8 @@
 {
     "name": "foreverju/composer",
+    "description": "ceshi test project",
+    "type": "project",
+    "license": "mit",
     "authors": [
         {
             "name": "wangwj",
