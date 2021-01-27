@@ -1,0 +1,11 @@
+{
+    "name": "foreverju/composer",
+    "authors": [
+        {
+            "name": "wangwj",
+            "email": "itzend@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
